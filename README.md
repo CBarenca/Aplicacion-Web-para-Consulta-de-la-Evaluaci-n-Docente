@@ -12,7 +12,7 @@ Durante el desarrollo del EDA, se identificaron varios problemas de formato en l
 
 En cuanto a los estudiantes, hay 7 con bachillerato, 5 con licenciatura, 3 con maestría y 7 con técnico superior. De un total de 22 estudiantes, 5 están activos, 6 bajo el artículo 33, 4 bajo el artículo 34, 1 en licencia y 6 con convenios en el extranjero. La universidad tiene 11 estudiantes femeninas y 11 masculinos.
 
-El cuerpo académico está compuesto por 10 profesores, todos adscritos al **Sistema Nacional de Investigadores** (SNII), con una distribución equitativa de género. Cuatro profesores tienen doctorado y seis maestría; seis tienen contrato definitivo y cuatro por tiempo indeterminado. En la carga horaria, destaca que solo 3 de los profesores usaron recursos tecnológicos en su enseñanza durante el ciclo 2024A.
+El cuerpo académico está compuesto por 10 profesores, todos adscritos al **Sistema Nacional de Investigadoras e Investigadores** (SNII), con una distribución equitativa de género. Cuatro profesores tienen doctorado y seis maestría; seis tienen contrato definitivo y cuatro por tiempo indeterminado. En la carga horaria, destaca que solo 3 de los profesores usaron recursos tecnológicos en su enseñanza durante el ciclo 2024A.
 
 ## Estructura deL repositorio
 
