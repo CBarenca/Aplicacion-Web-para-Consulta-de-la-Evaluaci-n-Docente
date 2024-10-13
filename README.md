@@ -21,21 +21,30 @@ El objetivo de este repositorio es implementar las buenas prácticas de acuerdo 
 
 La estructura que queremos que tenga este repositorio es la siguiente:
 
-    ├── LICENSE           <- MIT License.  
+    ├── data                                                                 <- Carpeta que contiene la base de datos que se utilizó para el análisis EDA, entre otros. .
+    │   ├── Diagrama Entidad - Relacion EVDOC.PNG                            <- Diagram entidad relación de la base de datos.
+    │   ├── README.md                                                        <- Descripción general de esta información.
+    │   ├── evdoc_aplicacion_web_db_schema.sql                               <- Schema de la Base de Datos.
+    │   ├── evdoc_db.sql                                                     <- Base de datos SQL poblada.
+    │   └── evdoc_insert_data.sql                                            <- Script para insertar la data en la base de datos.
+    │
+    ├── doc                                                                  <- Carpeta con el archivo markdown con el avance realizado sobre los capítulos 1 (introducción), 2 (marco teórico) y 3 (metodología).
+    |   ├── Aplicación Web para Consulta de la Evaluación Docente EDA.md     <- Avance realizado sobre los capítulos 1 (introducción), 2 (marco teórico) y 3 (metodología).
+    |   └── README.md                                                        <- Descripción general de los avances de investigación.
     |  
-    ├── README.md         <- Archivo Principal con la Descripción del Proyecto.  
+    ├── results                                                              <- Carpeta con el archivo README.md sobre los resultados del análisis EDA realizado.
+    |   └── README.md                                                        <- Resultados del análisis EDA realizado.
     |  
-    ├── CONTRIBUTING.md   <- Pasos para los colaboradores que deseen contribuir al proyecto.  
+    ├── src                                                                  <- Carpeta con Jupyter notebook con el análisis EDA y Archivo README.md.
+    |   ├── Aplicación Web para Consulta de la Evaluación Docente EDA.ipynb  <- Jupyter notebook con el análisis EDA.
+    │   └── README.md                                                        <- Introducción al Jupyter notebook con el análisis EDA.
     |  
-    ├── CITATION.md       <- Cita para referenciar el proyecto.  
+    ├── CITATION.md                                                          <- Cita para referenciar el proyecto.  
     |  
-    ├── data              <- Base de datos utilizada para el análisis EDA del proyecto.  
-    |  
-    ├── doc               <- Archivo de markdown con el avance realizado sobre los capítulos 1 (introducción), 2 (marco teórico) y 3 (metodología).
+    ├── CONTRIBUTING.md                                                      <- Pasos para los colaboradores que deseen contribuir al proyecto.  
     | 
-    ├── src               <- Jupyter notebook con el análisis EDA.  
+    ├── LICENSE                                                              <- MIT License.
     |  
-    ├── results           <- Archivo PDF sobre los resultados del análisis EDA realizado.
-    |  
-    └── resources         <- Logos, imágenes e iconos para el desarrollo del proyecto. 
+    └── README.md                                                            <- Archivo Principal con la Descripción del Proyecto.  
+ 
 ```
