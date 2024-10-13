@@ -1,6 +1,6 @@
 # Aplicación Web para Consulta de la Evaluación Docente
 
-**Estudiante**: Barenca Sotelo Cristian Ulises | **Materia**: Desarrollo de Proyectos l | **Correo**: cristian.barenca1897@alumnos.udg.mx | **Código de Estudiante**: 323018977 | **Maestro**: Mtro. Victor Hugo Cuspinera Contreras.
+**Estudiante**: Cristian Ulises Barenca Sotelo  | **Materia**: Desarrollo de Proyectos l | **Correo**: cristian.barenca1897@alumnos.udg.mx | **Código de Estudiante**: 323018977 | **Maestro**: Mtro. Victor Hugo Cuspinera Contreras.
 
 ## Descripción General 🚩
 
