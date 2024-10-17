@@ -29,7 +29,7 @@ La estructura que queremos que tenga este repositorio es la siguiente:
     │   └── evdoc_insert_data.sql                                            <- Script para insertar la data en la base de datos.
     │
     ├── doc                                                                  <- Carpeta con el archivo markdown con el avance realizado sobre los capítulos 1 (introducción), 2 (marco teórico) y 3 (metodología).
-    |   ├── Aplicación Web para Consulta de la Evaluación Docente EDA.md     <- Avance realizado sobre los capítulos 1 (introducción), 2 (marco teórico) y 3 (metodología).
+    |   ├── Aplicación Web para Consulta de la Evaluación Docente EDA.md     <- Descripción general de la tesis: (i) la problemática, (ii) el objetivo y (iii) la justificación o relevancia.
     |   └── README.md                                                        <- Descripción general de los avances de investigación.
     |  
     ├── results                                                              <- Carpeta con el archivo README.md sobre los resultados del análisis EDA realizado.
