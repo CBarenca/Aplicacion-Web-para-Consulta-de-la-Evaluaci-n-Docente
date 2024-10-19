@@ -2,7 +2,7 @@
 
 **Estudiante**: Cristian Ulises Barenca Sotelo  | **Materia**: Desarrollo de Proyectos l | **Correo**: cristian.barenca1897@alumnos.udg.mx | **Código de Estudiante**: 323018977 | **Maestro**: Mtro. Victor Hugo Cuspinera Contreras.
 
-[Link de la publicación en LinkedIn](https://www.linkedin.com/posts/cristian-ulises-barenca-sotelo-50ba03183_github-cbarencaaplicacion-web-para-consulta-de-la-evaluacion-docente-activity-7252664689313091584-RBPk?utm_source=share&utm_medium=member_desktop)
+**Publicación:** [LinkedIn](https://www.linkedin.com/posts/cristian-ulises-barenca-sotelo-50ba03183_github-cbarencaaplicacion-web-para-consulta-de-la-evaluacion-docente-activity-7252664689313091584-RBPk?utm_source=share&utm_medium=member_desktop)
 
 ## Descripción General 🚩
 
