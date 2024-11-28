@@ -16,7 +16,7 @@ En cuanto a los estudiantes, hay 7 con bachillerato, 5 con licenciatura, 3 con m
 
 El cuerpo académico está compuesto por 10 profesores, todos adscritos al **Sistema Nacional de Investigadoras e Investigadores** (SNII), con una distribución equitativa de género. Cuatro profesores tienen doctorado y seis maestría; seis tienen contrato definitivo y cuatro por tiempo indeterminado. En la carga horaria, destaca que solo 3 de los profesores usaron recursos tecnológicos en su enseñanza durante el ciclo 2024A.
 
-## Estructura deL repositorio
+## Estructura del repositorio
 
 ```
 El objetivo de este repositorio es implementar las buenas prácticas de acuerdo al paper ["Good Enough Practices in Scientific Computing"](https://arxiv.org/abs/1609.00037) por Greg Wilson, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, Tracy K. Teal.
