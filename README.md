@@ -4,7 +4,7 @@
 
 **Publicación:** [LinkedIn](https://www.linkedin.com/posts/cristian-ulises-barenca-sotelo-50ba03183_github-cbarencaaplicacion-web-para-consulta-de-la-evaluacion-docente-activity-7252664689313091584-RBPk?utm_source=share&utm_medium=member_desktop)
 
-## Descripción General 🚩
+## Descripción general 🚩
 
 La presente investigación propone el desarrollo de una Aplicación Web y una Base de Datos Relacional con el objetivo de optimizar los tiempos de procesamiento en consultas de información, alcanzando un tiempo promedio de respuesta inferior a 50 segundos. Esta mejora se apoya en evidencias de la literatura que destacan el impacto positivo de las técnicas de optimización en el rendimiento del hardware de Bases de Datos. Se anticipa que la implementación de estas optimizaciones no solo incrementará la eficiencia en la gestión de datos, sino que también enriquecerá la experiencia del usuario al facilitar el acceso a la información requerida. El objetivo general de este proyecto es crear una Aplicación Web para la visualización de información relacionada con la evaluación del profesorado, utilizando HTML, PHP, JS, CSS y el sistema gestor de bases de datos MySQL.
 
